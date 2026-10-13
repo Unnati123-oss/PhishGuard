@@ -1,0 +1,9 @@
+url,label
+https://google.com,0
+https://www.wikipedia.org,0
+https://github.com,0
+http://paypal-login-security.example.com,1
+http://verify-account-security.example.com,1
+http://free-prize-claim.example.com,1
+https://www.microsoft.com,0
+http://secure-bank-login.example.com,1
